@@ -15,5 +15,5 @@
 include:
   - board: whkb_pro2
     shield: hhkb_pro2
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: hhkb_pro2 custom_pro2
